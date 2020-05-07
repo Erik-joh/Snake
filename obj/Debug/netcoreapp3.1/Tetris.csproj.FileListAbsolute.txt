@@ -1,0 +1,11 @@
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.deps.json
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.runtimeconfig.json
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.runtimeconfig.dev.json
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.dll
+/home/erik/RiderProjects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.pdb
+/home/erik/RiderProjects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.csprojAssemblyReference.cache
+/home/erik/RiderProjects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.AssemblyInfoInputs.cache
+/home/erik/RiderProjects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.AssemblyInfo.cs
+/home/erik/RiderProjects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.dll
+/home/erik/RiderProjects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.pdb
